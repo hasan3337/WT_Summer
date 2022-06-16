@@ -1,0 +1,14 @@
+[
+    {
+        "fname": "Aton",
+        "lname": "Martin",
+        "age": "34",
+        "desig": "Senior Programmer",
+        "pl": [
+            "PHP",
+            "C++"
+        ],
+        "email": "aston@gmail.com",
+        "pword": "dgk7834kfj943"
+    }
+]
